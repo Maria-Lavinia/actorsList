@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&display=swap");
+
 body {
   background-color: rgba(0, 0, 0, 0.1);
 }
@@ -43,6 +45,8 @@ body {
 
 h1 {
   text-align: center;
+  font-family: "Quicksand", sans-serif;
+  text-decoration: wavy;
 }
 
 h2 {
@@ -50,8 +54,10 @@ h2 {
   background-color: #04aa6d;
   color: white;
   padding: 16px;
-  font-size: 16px;
+  font-size: 20px;
   border: none;
+  font-family: "Quicksand", sans-serif;
+  margin-top: 10px;
 }
 
 /* The container <div> - needed to position the dropdown content */
@@ -73,9 +79,8 @@ h2 {
   max-width: 80%;
   text-align: center;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  font-family: "Quicksand", sans-serif;
 }
-
-/* .dropdown-content a:hover {background-color: #ddd;} */
 
 .show {
   display: none;

@@ -23,4 +23,3 @@ function showActor(actor) {
   parent.appendChild(clone);
 }
 
-

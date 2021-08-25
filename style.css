@@ -7,7 +7,7 @@ body {
 /* styling paper */
 #paper {
   width: 600px;
-  height: 4280px;
+  height: 4540px;
   position: relative;
   margin: 20px auto;
   padding-top: 40px;
@@ -47,6 +47,11 @@ h1 {
   text-align: center;
   font-family: "Quicksand", sans-serif;
   text-decoration: wavy;
+}
+.description {
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+  margin-top: 10px;
 }
 
 h2 {
